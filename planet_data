@@ -1,0 +1,15 @@
+# Planet’s Name, Average Radius of Planet, Average Density of planet, notes
+Mercury;  2439.7 km;  5.427 g/cm^3;
+Venus;  6051.8 km;  5.243 g/cm^3;
+Earth;  6371.0 km;  5.514 g/cm^3;
+Mars;  3389.5 km;  3.933 g/cm^3;
+Ceres;  473 km;  2.161 g/cm^3;  dwarf planet
+Jupiter;  69911 km;  1.326 g/cm^3;  gas giant
+Saturn;  58232 km;  0.687 g/cm^3;  gas giant
+Uranus;  25362 km;  1.27 g/cm^3;  gas giant
+Neptune;  24622 km;  1.638 g/cm^3;  gas giant
+Pluto;  1188.3 km;  1.854 g/cm^3;  dwarf planet
+Eris;  1163 km;  	2.52 g/cm^3;  dwarf planet
+Comet 67P/C-G;  3.7 km;  0.533 g/cm^3;  comet
+Proxima Centuari b;  8000.0 km;  3.636 g/cm^3;  exoplanet
+Kepler-37b;  2176.0 km;  5.560 g/cm^3;  exoplanet
