@@ -26,6 +26,6 @@ si_prad=eval(prad_n/1000)
 si_den=eval(den_n*1000)
 
 m_planet = eval(si_den*(4/3)*ma.pi*(si_prad**3))
-Fg = 
+Fg = (G*m_planet*mass)/(si_prad+alt)
 
 # Outputs: the explorer's weight, the Gravitational acceleration in g's
