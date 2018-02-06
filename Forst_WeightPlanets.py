@@ -11,5 +11,6 @@ f=open("planet_data.dat", "r")
 
 for line in f:
   data=line.split(";")
-  if pname==data[0]:
-    then r=[1] and den=[2] 
+
+if pname==data[0]:
+  then r=data[1] and den=data[2] 
