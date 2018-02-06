@@ -10,5 +10,6 @@ mass=input.('What is the mass of the explorer?')
 f=open("planet_data.dat", "r")
 
 for line in f:
-  if pname==[0]:
+  data=line.split(";")
+  if pname==data[0]:
     then r=[1] and den=[2] 
